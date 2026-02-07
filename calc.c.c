@@ -23,7 +23,6 @@ int main() {
         // the user input
         char name[100];
         printf("What is your name? -> ");
-        fflush(stdout); // ensure prompt appears before input
         scanf("%s", name);
 
         // welcoming the user
