@@ -26,6 +26,8 @@ gcc calc.c -o calc
 
 3. simply follow the prompts:
 
+<img width="542" height="499" alt="Screenshot 2026-02-07 at 11 05 26" src="https://github.com/user-attachments/assets/e358147e-538d-4c4e-b91f-52192a0a5592" />
+
 - enter your name
 - choose an operation from the menu (add, sub, mul, div)
 - enter the two numbers
